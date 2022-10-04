@@ -90,10 +90,10 @@ header {
 }
 
 .logo{
-    width: 10%;
+    width: 8%;
     position: absolute;
-    top: 0%;
-    left: 0%;
+    top: 20px;
+    left: 20px;
 }
 
 .main-nav{
